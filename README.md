@@ -1,5 +1,3 @@
-# patolli
-
 # Patolli
 
 ## Simple two player Patolli Game
